@@ -9,21 +9,6 @@
       <link rel="stylesheet" type="text/css" href="dataset.css" />
    </head>
    <body>
-      <header>
-         <nav>
-            <h1 class="page-title">
-               <a href="../index.html">
-               <img src="../leafsnap_logo.png" style="width:197px;height:71px;border:0;">
-               </a>
-            </h1>
-            <ul>
- 	       <li><a class="active" href="../species.html">Species</a></li>
-               <li><a class="active" href="../support.html">Support</a></li>
-               <li><a href="https://itunes.apple.com/us/app/leafsnap/id430649829?mt=8">Download</a></li>
-            </ul>
-         </nav>
-      </header>
-
   <div id="dataset" class="datacode">
     <h1>Leafsnap Dataset</h1>
 

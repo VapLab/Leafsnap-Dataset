@@ -1481,18 +1481,5 @@
 
     <hr>
 </div> 
-      <section class="content-wrapper links">
-          <div style="width:100px; padding-top:20px; margin:auto; display:flex;">
-              <img src="../github icon.png" width="34px" height="34px" style="padding-right:10px;"></img>
-              <img src="../twitter icon.png" width="34px" height="34px"></img>
-          </div>
-          <ul class="list-horizontal">
-               <li>Contact</li>
-               <li><a href="../team/team.html">Team</a></li>
-               <li>Privacy</li>
-               <li style="padding-right:0px;"><a href="support.html">Support</a></li>
-           </ul>
-      </section>
     </body>
 </html>
-Madelines-MacbookPro:public madelinezechar$ 
